@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @jonahchoi
-- I am an aspiring software engineer/web developer learning Javascript and it's libraries in order to reach my goals.
-- I have always been a man of science and I love all sorts of technology. So what better to pursue than computer science! 
-- I am particularly interested in React and building unique websites.
-- Started my learning on freeCodeCamp's Javascript courses, but I still have a lot to learn so let's do it together!
+- Hey there! I am a full stack software engineer, recently graduated from Hack Reactor. I've been focusing on JavaScript and React to develop and design web apps. In my spare time, I love to dance, play some games, and play badminton!
+
+Front-End | JavaScript (ES5 and ES6), React, HTML5, CSS3
+Back-End | Node.js, Express, PostgreSQL, MySQL, MongoDB, Firebase, RESTful API
+Testing/Deployment | Jest, Mocha, Chai, AWS: EC2
+Developer Tools | Vim, Git, npm, Webpack, Babel, Agile Methodology, Scrum
 
 - View my freeCodeCamp certifications here: https://www.freecodecamp.org/JonahChoi.
 - View my codePen projects here: https://codepen.io/jc1234.
