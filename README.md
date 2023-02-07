@@ -6,9 +6,6 @@
 - Testing/Deployment | Jest, Mocha, Chai, AWS: EC2
 - Developer Tools | Vim, Git, npm, Webpack, Babel, Agile Methodology, Scrum
 
-- View my freeCodeCamp certifications here: https://www.freecodecamp.org/JonahChoi.
-- View my codePen projects here: https://codepen.io/jc1234.
-
 <!---
 jonahchoi/jonahchoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
