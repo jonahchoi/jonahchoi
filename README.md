@@ -3,7 +3,7 @@
 
 - My Portfolio: https://jonahchoi.vercel.app/
 
-- Front-End | JavaScript (ES5 and ES6), React, HTML5, CSS3
+- Front-End | JavaScript (ES5 and ES6), React, HTML5, CSS3, Next.js
 - Back-End | Node.js, Express, PostgreSQL, MySQL, MongoDB, Firebase, RESTful API
 - Testing/Deployment | Jest, Mocha, Chai, AWS: EC2
 - Developer Tools | Vim, Git, npm, Webpack, Babel, Agile Methodology, Scrum
